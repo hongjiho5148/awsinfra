@@ -1,3 +1,3 @@
 project       = "myapp"
 environment   = "dev"
-key_pair_name = "MyCliKeyPair"
+key_pair_name = "hjhkey"
